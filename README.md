@@ -29,3 +29,5 @@ I am a computer science student at the University of Pretoria. I have been learn
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/James-178"><img src="https://github-readme-stats.vercel.app/api?username=James-178&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="James-178's GitHub stats" /></a>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
