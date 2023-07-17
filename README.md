@@ -25,7 +25,7 @@ I am a computer science student at the University of Pretoria. I have been learn
 <p align="left"> <a href="https://discord.com/users/James_178" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/James-178" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
-
+<a href="https://www.credly.com/users/james-neale.5f9def1c<a" target="_blank">Credly</a>
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/James-178"><img src="https://github-readme-stats.vercel.app/api?username=James-178&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="James-178's GitHub stats" /></a>
