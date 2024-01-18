@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer science student
 ------------------------
 
-I am a computer science student at the University of Pretoria. I have been learning programming for 4 years. I am fluent in Python and Delphi. I enjoy creating random projects to learn more about different languages.
+I am a computer science student at the University of Pretoria. I have been learning programming for 4 years. I am fluent in Python, C++ and Delphi. I enjoy creating random projects to learn more about different languages.
 
 * 🌍  I'm based in Gauteng, South Africa
 * ✉️  You can contact me at [jamesneale2004@gmail.com](mailto:jamesneale2004@gmail.com)
-* 🧠  I'm learning C++
+* 🧠  I'm learning Java
 
 ### Skills
 
