@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Timetable application](https://github.com/James-178/UP-timetable-web-app)
 
-- 🌱 I’m currently learning **Node**
+- 🌱 I’m currently learning **Assembly**
 
 - 👨‍💻 All of my projects are available at [https://github.com/James-178](https://github.com/James-178)
 
