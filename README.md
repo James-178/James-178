@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm James Neale</h1>
 <h3 align="center">Computer Science student</h3>
+<div align="center">
+  <a href="https://james-178.github.io/Portfolio/">Check out my portfolio</a>
+</div>
 
 # 💫 About Me:
-🔭 I’m currently working on NoSQuirreL database project [https://github.com/COS301-SE-2025/MP14](https://github.com/COS301-SE-2025/MP14)<br>🌱 I’m currently learning NodeJS and Jest<br>💬 Ask me about: Databases<br>👨‍💻 All of my projects are available at [https://github.com/James-178](https://github.com/James-178)<br>📫 How to reach me **jamesneale2004@gmail.com**<br>📷 Naven Photography [https://naven-photography.webnode.co.uk/](https://naven-photography.webnode.co.uk/)
+🔭 I’m currently working on Automated Scheduling System [https://github.com/COS301-SE-2025/Automated-Scheduling-System](https://github.com/COS301-SE-2025/Automated-Scheduling-System)<br>🌱 I’m currently learning React with ViteJS and Go<br>💬 Ask me about: Databases<br>👨‍💻 All of my projects are available at [https://github.com/James-178](https://github.com/James-178)<br>📫 How to reach me **jamesneale2004@gmail.com**<br>📷 Naven Photography [https://naven-photography.webnode.co.uk/](https://naven-photography.webnode.co.uk/)
 
 
 ## 🌐 Socials:
